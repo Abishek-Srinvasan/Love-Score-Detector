@@ -3,7 +3,7 @@ Detects the Love score between a couple or any two people.
 
 **Input:
 **
-Any two names of two different persons
+Set of people names 
 
 **Output:
 **
@@ -20,6 +20,6 @@ Inspired by:
 5. Enemity
 6. Sister/Brother
 
-Though this game is played for fun, some people used to believe the result of this game.
+Though this game is played for fun, some people used to believe in its results.
 
-This application is to share the relationship of the two people (names) provided.
+This application is for sharing the relationship between a group (two or more people).
